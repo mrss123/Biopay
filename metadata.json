@@ -1,0 +1,6 @@
+{
+  "name": "BioPay - Biometric Payroll SaaS",
+  "description": "Enterprise multi-tenant biometric attendance and payroll SaaS platform with flexible salary formulas, RBAC, and automated payslip processing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
