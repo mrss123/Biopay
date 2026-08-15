@@ -1,4 +1,4 @@
-# PRISMPAY — Enterprise HR & Biometric Payroll Command Center
+# BIOPAY — Enterprise HR & Biometric Payroll Command Center
 
 PRISMPAY is a full-stack, enterprise-grade HR, Biometric Attendance, and Automated Payroll Management system designed for multi-tenant organizations. Featuring a modern Bento Grid UI system, live biometric hardware punch simulation, statutory tax and gross-to-net calculation engines, NACHA direct deposit file generation, and an embedded Gemini AI HR Co-Pilot.
 
